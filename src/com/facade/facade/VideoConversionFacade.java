@@ -1,5 +1,12 @@
-package com.facade;
+package com.facade.facade;
 
+import com.facade.medialibrary.AudioMixer;
+import com.facade.medialibrary.BitrateReader;
+import com.facade.medialibrary.Codec;
+import com.facade.medialibrary.CodecFactory;
+import com.facade.medialibrary.MPEG4CompressionCodec;
+import com.facade.medialibrary.OggCompressionCodec;
+import com.facade.medialibrary.VideoFile;
 import java.io.File;
 
 /**

@@ -1,4 +1,4 @@
-package com.facade;
+package com.facade.medialibrary;
 
 public class VideoFile {
 
